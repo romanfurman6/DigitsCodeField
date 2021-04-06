@@ -13,6 +13,7 @@
 		5F79A39C23CF94D800A9A301 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F79A39A23CF94D800A9A301 /* Main.storyboard */; };
 		5F79A39E23CF94DA00A9A301 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F79A39D23CF94DA00A9A301 /* Assets.xcassets */; };
 		5F79A3A123CF94DA00A9A301 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F79A39F23CF94DA00A9A301 /* LaunchScreen.storyboard */; };
+		5F79A3A923CF94EE00A9A301 /* DigitsCodeField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F79A3A823CF94EE00A9A301 /* DigitsCodeField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5F79A39D23CF94DA00A9A301 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F79A3A023CF94DA00A9A301 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F79A3A223CF94DA00A9A301 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F79A3A823CF94EE00A9A301 /* DigitsCodeField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DigitsCodeField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5F79A39423CF94D800A9A301 /* AppDelegate.swift */,
 				5F79A39623CF94D800A9A301 /* SceneDelegate.swift */,
 				5F79A39823CF94D800A9A301 /* ViewController.swift */,
+				5F79A3A823CF94EE00A9A301 /* DigitsCodeField.swift */,
 				5F79A39A23CF94D800A9A301 /* Main.storyboard */,
 				5F79A39D23CF94DA00A9A301 /* Assets.xcassets */,
 				5F79A39F23CF94DA00A9A301 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				5F79A39923CF94D800A9A301 /* ViewController.swift in Sources */,
 				5F79A39523CF94D800A9A301 /* AppDelegate.swift in Sources */,
 				5F79A39723CF94D800A9A301 /* SceneDelegate.swift in Sources */,
+				5F79A3A923CF94EE00A9A301 /* DigitsCodeField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
